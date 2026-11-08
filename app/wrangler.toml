@@ -1,4 +1,4 @@
-name = "ddns-ikun"
+name = "ddnstxt"
 main = "src/index.ts"
 compatibility_date = "2026-09-24"
 minify = true
